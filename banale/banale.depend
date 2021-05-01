@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1619891301 source:c:\users\lenovo\documents\banale\main.c
+	"fonction.h"
+
+1619891661 c:\users\lenovo\documents\banale\fonction.h
+	<stdio.h>
+	<stdlib.h>
+
